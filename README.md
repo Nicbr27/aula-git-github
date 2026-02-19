@@ -1,1 +1,1 @@
-# aula-git-github
+# aula introdutoria ao Git e GitHub.
